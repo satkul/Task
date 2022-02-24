@@ -1,0 +1,18 @@
+﻿General question answer
+1.Coding for me is  to be relaxing for solving the problem. With every new bug, you'll also get to learn a new algorithm, work with new programming language or trying out a new framework. You'll be visiting multiple sources to figure out and its a satisfying reward when the pieces are put together. It's the flow that excites me the most. Recently, I've been keeping myself busy with java script.
+
+2.Recently, I’ve been taking up coding challenges with java script and front end . In one of the questions I faced a difficulty fetching the json file. To solve the problem, I searched through stack-
+overflow GitHub.
+
+3.My preferred development environment is vs code,Node, Bootstrap, chrome developer
+tools, git hub.
+
+4. Throughout the internship, I will not only be able to put the knowledge I've gained into
+practice but will also get to be a part of a passionate community that will help me grow
+personally and professionally. It's a fact that in coding, nobody knows everything. It will
+be a huge boost to the confidence knowing that I would not have to do this alone
+accelerating desire to learn and do more.
+
+5. I learn from everywhere. From video tutorials on YouTube to taking up online classes,
+spending extensive time on stack Overflow, Google, consulting with professors, taking
+up code challenges, MDN document.
